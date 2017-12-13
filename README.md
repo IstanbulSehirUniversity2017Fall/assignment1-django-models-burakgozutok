@@ -17,6 +17,9 @@ git add .
 git commit -m "first commit"
 
 
+
+I made admin panel password **"1sehir1"**. 
+The one that exists on the first version of assignment pdf.
 --------------------------------
 BURAK GÖZÜTOK
 214010257
